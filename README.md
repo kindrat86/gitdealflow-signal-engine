@@ -40,7 +40,7 @@ The methodology is fully documented and peer-reviewable:
 - **Paper:** [*A Longitudinal Panel of GitHub Engineering Velocity for Venture-Backed Startups*](https://ssrn.com/abstract=6606558) — SSRN abstract `6606558`, DOI `10.2139/ssrn.6606558`
 - **Dataset:** DOI `10.5281/zenodo.19650920`, CC BY 4.0
 - **Author:** The Data Nerd — [ORCID `0009-0002-2222-4112`](https://orcid.org/0009-0002-2222-4112), [Wikidata Q139376302](https://www.wikidata.org/wiki/Q139376302)
-- **Live walkthrough:** [signals.gitdealflow.com/methodology](https://signals.gitdealflow.com/methodology)
+- **Live walkthrough:** [commit-velocity methodology](https://signals.gitdealflow.com/methodology)
 
 ---
 
@@ -54,7 +54,7 @@ Three reasons, in order of honesty:
 
 3. **The category wins when the method is public.** "Code-Side Sourcing" only becomes a real sourcing channel if the methodology is transparent enough to be discussed, cited, and reproduced. This repo is the category's open handshake.
 
-**In short:** open-source the computation, gate the live data feed. You can run this on your own watchlist with your own compute for free, forever. When you'd rather not maintain the pipeline, the continuously-refreshed feed is at [gitdealflow.com](https://gitdealflow.com).
+**In short:** open-source the computation, gate the live data feed. You can run this on your own watchlist with your own compute for free, forever. When you'd rather not maintain the pipeline, the continuously-refreshed feed is at [the live deal-flow signal](https://gitdealflow.com).
 
 ---
 
@@ -295,7 +295,7 @@ Pull requests are welcome — especially fixes to the computation, additional si
 3. Keep the math honest: this repo is a reproducibility guarantee, so any change to the scoring logic should be justified against the SSRN panel.
 4. Open a PR with a clear description.
 
-Questions, ideas, or a backtest result that surprised you? Open an [issue](https://github.com/kindrat86/gitdealflow-signal-engine/issues) or drop a note via [gitdealflow.com](https://gitdealflow.com).
+Questions, ideas, or a backtest result that surprised you? Open an [issue](https://github.com/kindrat86/gitdealflow-signal-engine/issues) or drop a note via [GitDealFlow](https://gitdealflow.com).
 
 ---
 
@@ -305,7 +305,7 @@ Questions, ideas, or a backtest result that surprised you? Open an [issue](https
 
 <br>
 
-[**→ gitdealflow.com**](https://gitdealflow.com)
+[**→ GitDealFlow**](https://gitdealflow.com)
 
 Free Sunday digest · €49/mo Dashboard · €197/mo Insider Circle
 
