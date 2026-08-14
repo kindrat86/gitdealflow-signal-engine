@@ -50,7 +50,7 @@ Three reasons, in order of honesty:
 
 1. **Reproducibility is the moat.** A signal you can't audit is a signal you shouldn't bet on. The SSRN panel (`n=219` confirmed rounds) is only persuasive if anyone can re-derive the numbers. This repo is that guarantee.
 
-2. **The edge was never the arithmetic.** The math here is ~200 lines of Python. The hard, expensive part — and the actual product — is the *pipeline*: tracking 4,200+ orgs, 20 sectors, weekly, with historical baselines, sector rankings, and a Sunday digest. Open-sourcing the formula doesn't give away the factory; it proves the factory makes what the label says.
+2. **The edge was never the arithmetic.** The math here is ~200 lines of Python. The hard, expensive part — and the actual product — is the *pipeline*: tracking 350+ orgs, 15 sectors, weekly, with historical baselines, sector rankings, and a Sunday digest. Open-sourcing the formula doesn't give away the factory; it proves the factory makes what the label says.
 
 3. **The category wins when the method is public.** "Code-Side Sourcing" only becomes a real sourcing channel if the methodology is transparent enough to be discussed, cited, and reproduced. This repo is the category's open handshake.
 
@@ -247,7 +247,7 @@ Sort by `composite_score`, then look at **`meets_series_a_composite`** — that 
 
 | This repo (open) | GitDealFlow Dashboard (paid) |
 |------------------|------------------------------|
-| You supply the org names | 4,200+ tracked orgs across 20 sectors |
+| You supply the org names | 350+ tracked orgs across 15 sectors |
 | You run it on your compute | Continuously refreshed, weekly (Monday) |
 | Raw numbers + composite score | Sector rankings, historical baselines, quarters |
 | You interpret the output | Plain-English notes: *why* each org is moving |
@@ -309,6 +309,6 @@ Questions, ideas, or a backtest result that surprised you? Open an [issue](https
 
 Free Sunday digest · €49/mo Dashboard · €197/mo Insider Circle
 
-*Track 4,200+ orgs across 20 sectors. Get the five names worth a meeting, every week.*
+*Track 350+ orgs across 15 sectors. Get the five names worth a meeting, every week.*
 
 </div>
