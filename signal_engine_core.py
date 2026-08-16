@@ -61,7 +61,7 @@ Usage:
     print(report)
 
 This is the *computation* layer only. The live, continuously-refreshed feed
-(4,200+ orgs, weekly rankings, Sunday digest) is the paid GitDealFlow product:
+(400+ orgs, weekly rankings, Sunday digest) is the paid GitDealFlow product:
     https://gitdealflow.com
 """
 
