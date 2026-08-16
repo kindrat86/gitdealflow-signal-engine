@@ -1,0 +1,13 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: The Data Nerd
+Author-Workplace-Name: VC Deal Flow Signal (independent)
+Author-Email: signals@gitdealflow.com
+Title: A Longitudinal Panel of GitHub Engineering Velocity for Venture-Backed Startups: Dataset and Early Observations
+Abstract: We release a quarterly longitudinal panel of GitHub engineering-velocity signals across 55 venture-backed startups, spanning five quarters from Q2 2025 through Q2 2026 (219 startup-period observations). For each observation we record commit velocity over a rolling 14-day window, unique-contributor count, new-repository creation, and a deterministic classification into one of four acceleration patterns: framework migration, engineering hiring burst, infrastructure buildout, and deploy frequency spike. We describe the data-collection methodology, report descriptive statistics across sectors and geographies, and document known limitations, most importantly the absence of linked funding-event labels in this release. Observed 14-day commit velocity has a median of 71, a mean of 173, and a 90th percentile of 392; quarter-over-quarter velocity change ranges from -94% to +1,647% with 49% of observations showing positive growth. Framework migration dominates the signal distribution at 75% of observations; deploy frequency spike, engineering hiring burst, and infrastructure buildout account for 12%, 9%, and 4% respectively. Geography, where identified, skews 56% US. The dataset is distributed under CC BY 4.0 at https://signals.gitdealflow.com/api/signals.csv and mirrored on Kaggle, Data.world, and Zenodo. Our goal is to provide a public baseline for researchers studying alternative data in venture capital, signal processing of open-source development activity, and sector-level engineering-pattern heterogeneity. We invite replication studies joining the panel against external funding-event sources such as Crunchbase or PitchBook.
+Classification-JEL: G24, L26, O32, C81
+Keywords: venture capital; alternative data; GitHub; open source; engineering velocity; startup analytics; panel data
+Creation-Date: 2026-04-19
+File-URL: https://raw.githubusercontent.com/kindrat86/gitdealflow-signal-engine/main/repec/arch/wpaper/paper.pdf
+File-Format: Application/pdf
+DOI: 10.5281/zenodo.19650920
+Handle: RePEc:gdf:wpaper:1

@@ -1,0 +1,7 @@
+Template-Type: ReDIF-Archive 1.0
+Handle: RePEc:gdf
+Name: GitDealFlow Working Papers
+Maintainer-Name: The Data Nerd
+Maintainer-Email: signals@gitdealflow.com
+Description: Working papers on alternative data, open-source engineering signals, and venture-capital deal flow, published by VC Deal Flow Signal (gitdealflow.com).
+URL: https://raw.githubusercontent.com/kindrat86/gitdealflow-signal-engine/main/repec/arch/
