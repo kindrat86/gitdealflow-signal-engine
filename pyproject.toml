@@ -1,0 +1,45 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gitdealflow-signal-engine"
+version = "0.1.0"
+description = "Open-source reference implementation of the GitHub commit-velocity acceleration signal for startup deal-flow research"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+    { name = "Maryan Kindrat", email = "signals@gitdealflow.com" },
+]
+keywords = [
+    "venture-capital",
+    "deal-flow",
+    "github-api",
+    "alternative-data",
+    "startup-signals",
+    "open-source-methodology",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Financial and Insurance Industry",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+]
+dependencies = [
+    "requests>=2.31.0",
+]
+
+[project.scripts]
+signal-engine = "signal_engine_core:main"
+
+[tool.setuptools]
+py-modules = ["signal_engine_core"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
