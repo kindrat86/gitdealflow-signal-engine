@@ -16,6 +16,12 @@
 
 </div>
 
+<div align="center">
+
+**Found this useful?** ⭐ [Star the repo](https://github.com/kindrat86/gitdealflow-signal-engine) and it helps an open method reach the next analyst.
+
+</div>
+
 ---
 
 ## What this is
