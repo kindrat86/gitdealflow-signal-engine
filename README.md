@@ -26,7 +26,9 @@
 
 ## What this is
 
-`signal-engine` is the open-source **computation layer** of [GitDealFlow](https://gitdealflow.com), a deal-flow signal product that reads public GitHub engineering activity and surfaces the startups accelerating **21–47 days before they announce a fundraise**.
+`signal-engine` is the open-source **computation layer** of [GitDealFlow](https://gitdealflow.com/?utm_source=github&utm_medium=readme&utm_campaign=signal-engine), a deal-flow signal product that reads public GitHub engineering activity and surfaces the startups accelerating **21–47 days before they announce a fundraise**.
+
+New here? Read [Seven Signals, the free field guide](https://signals.gitdealflow.com/book?utm_source=github&utm_medium=readme&utm_campaign=signal-engine) before trying the code.
 
 Given a GitHub organization, it computes three leading indicators and combines them into a single ranked score:
 
